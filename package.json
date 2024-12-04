@@ -7,7 +7,9 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "homepage": "https://github.com/MaxKurbatov/react-app"
+    
   },
   "dependencies": {
     "@reown/appkit": "^1.5.3",
